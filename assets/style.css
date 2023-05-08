@@ -371,4 +371,10 @@ p {
         flex-direction: column;
         gap: 25px;
     }
+
+    .phrases__cards {
+        flex-direction: column;
+        gap: 25px;
+        
+    }
 }
