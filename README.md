@@ -4,12 +4,12 @@ Site criado como requisito obrigatório para obter o certificado do curso progra
 
 O desafio: criar um site com HTML, CSS e JavaScript celebrando a história de uma mulher que teve um impacto significativo no mundo.
 
-# Maria Curie 
+# Marie Curie 
 <div align="center">
 <img src="https://www.infoescola.com/wp-content/uploads/2009/04/mariecurie.jpg">
 
 Escolhi a Marie Curie por toda a sua historia de perseverança e luta, apesar de todas as dificuldades ela nunca desistu, ese tornou a primeira personalidade a ganhar dois Nobels.
 
-- [Visite o projeto online]()
+ [Visite o projeto online](https://caazia.github.io/siteMarieCurie/)
 
 <br><hr><br>
